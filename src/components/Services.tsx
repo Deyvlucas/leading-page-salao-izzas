@@ -16,16 +16,6 @@ const services = [
     image: 'https://images.unsplash.com/photo-1492106087820-71f171d0866b?q=80&w=1974&auto=format&fit=crop',
     description: 'Tons quentes e sofisticados para realçar a beleza natural.',
   },
-  {
-        title: 'TESTANDO',
-        image: 'https://images.unsplash.com/photo-1580618672591-eb180b1a973f?q=80&w=2069&auto=format&fit=crop',
-        description: 'Técnica exclusiva para morenas iluminadas com contraste marcante.',
-  },
-{
-        title: 'TESTANDO',
-        image: 'https://images.unsplash.com/photo-1580618672591-eb180b1a973f?q=80&w=2069&auto=format&fit=crop',
-        description: 'Técnica exclusiva para morenas iluminadas com contraste marcante.',
-  },
 ];
 
 export default function Services() {

@@ -35,14 +35,14 @@ export default function About() {
             A Mente Criativa
           </span>
           <h2 className="text-4xl md:text-5xl font-serif text-gray-900 leading-tight">
-            Criando tendências globais em coloração e estilo.
+            Experiência moldada pelo tempo e planejamento.
           </h2>
-          <div className="space-y-6 text-gray-600 font-light leading-relaxed">
+          <div className="space-y-6 text-gray-600 font-light leading-relaxed ">
             <p>
-              Isabelly Vitoria iniciou sua carreira como educador da Wella. Se tornou um hair stylist mundialmente conhecido por lançar técnicas novas de coloração, sendo uma delas feitas à mão, dando um ar bem natural aos fios.
+              O Salão Izzas é o resultado de uma jornada de dedicação iniciada precocemente por Isabelly Vitoria. Criado dentro do ambiente de salão desde os 13 anos, ele transformou a vivência familiar e a observação atenta em uma carreira profissional de alto impacto. Com uma formação sólida pela prestigiada Beauty University (Natalia Beauty), Isabelly refinou sua técnica e sensibilidade antes de dar o passo mais importante de sua trajetória: a abertura de seu próprio espaço.
             </p>
             <p>
-              É o idealizador de todas as campanhas que levam sua assinatura, desde o casting de modelos, fotógrafo, locação e figurino. Conquistou a confiança de grandes nomes e celebridades que buscam a excelência em cada detalhe.
+              Mais do que um empreendimento, o Salão Izzas é um centro de estética onde a seriedade e a sofisticação se encontram. Cada atendimento é fruto de um planejamento minucioso, focado na harmonia facial e no bem-estar absoluto das clientes. Aqui, a experiência de anos de prática se une à inovação técnica para elevar o patamar do design de sobrancelhas, entregando resultados naturais e personalizados.
             </p>
           </div>
           <a

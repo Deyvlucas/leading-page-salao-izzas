@@ -19,7 +19,7 @@ export default function Hero() {
           initial={{ opacity: 0, y: 20 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.2 }}
-          className="text-gold-400 uppercase tracking-[0.3em] text-sm md:text-base mb-6"
+          className="text-gold-400 uppercase tracking-[0.3em]  text-sm md:text-base mb-6"
         >
           Bem-vindo ao Salão Izzas
         </motion.span>
@@ -28,7 +28,7 @@ export default function Hero() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, delay: 0.4 }}
-          className="text-4xl md:text-6xl lg:text-7xl text-white font-serif leading-tight mb-8"
+          className="text-4xl md:text-6xl lg:text-8xl text-white font-serif leading-tight mb-8"
         >
           Contribuímos para o bem-estar e a realização pessoal de nossos clientes
         </motion.h1>
