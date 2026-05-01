@@ -1,4 +1,5 @@
 import { motion } from 'motion/react';
+import isabellyImg from './assets/isabelly-mente-criativa.webp';
 
 export default function About() {
   return (
@@ -13,7 +14,7 @@ export default function About() {
           className="relative aspect-[3/4] lg:aspect-[4/5] overflow-hidden"
         >
           <img
-            src="https://images.unsplash.com/photo-1595476108010-b4d1f102b1b1?q=80&w=1976&auto=format&fit=crop"
+            src={isabellyImg}
             alt="Isabelly Vitoria"
             className="w-full h-full object-cover grayscale hover:grayscale-0 transition-all duration-700"
           />
